@@ -3,3 +3,6 @@ Include/
 Scripts/
 *.cfg
 share/
+annotated_data/
+*.pkl
+data/
